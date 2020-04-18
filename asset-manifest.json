@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/authorization-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/authorization-app/static/js/main.6939120f.chunk.js",
+    "main.js.map": "/authorization-app/static/js/main.6939120f.chunk.js.map",
+    "runtime-main.js": "/authorization-app/static/js/runtime-main.e9efb152.js",
+    "runtime-main.js.map": "/authorization-app/static/js/runtime-main.e9efb152.js.map",
+    "static/js/2.ea919ed7.chunk.js": "/authorization-app/static/js/2.ea919ed7.chunk.js",
+    "static/js/2.ea919ed7.chunk.js.map": "/authorization-app/static/js/2.ea919ed7.chunk.js.map",
+    "index.html": "/authorization-app/index.html",
+    "precache-manifest.e43ef9bbf6a8f1a22d5f49f8fc510153.js": "/authorization-app/precache-manifest.e43ef9bbf6a8f1a22d5f49f8fc510153.js",
+    "service-worker.js": "/authorization-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/authorization-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ea919ed7.chunk.js.LICENSE.txt": "/authorization-app/static/js/2.ea919ed7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/authorization-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9efb152.js",
+    "static/js/2.ea919ed7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6939120f.chunk.js"
+  ]
+}
