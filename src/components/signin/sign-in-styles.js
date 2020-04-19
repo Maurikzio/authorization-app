@@ -40,7 +40,8 @@ export const Input = styled.input`
     padding: 15px;
     font-weight: 800;
     &::placeholder{
-        ${'' /* font-size: 15px */}
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
     }
     &:focus{
         outline: none !important;
